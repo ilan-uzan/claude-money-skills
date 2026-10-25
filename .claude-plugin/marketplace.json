@@ -1,0 +1,15 @@
+{
+  "name": "money-skills",
+  "description": "12 free Claude skills for money: side hustles, raises, budgets, pricing, pitching and more, each run as a panel of Claudes.",
+  "owner": {
+    "name": "Ilan Uzan"
+  },
+  "plugins": [
+    {
+      "name": "money-skills",
+      "description": "12 money skills: /hustle /pitch /roast /raise /expenses /budget /niche /clients /startup /negotiate /price /quiz",
+      "source": "./plugins/money-skills",
+      "category": "productivity"
+    }
+  ]
+}
